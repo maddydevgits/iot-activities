@@ -82,6 +82,11 @@
     <td>It tracks the no.of visiter</td>
     <td><a href="https://github.com/maddydevgits/iot-activities/tree/main/Project13">Click Here</a></td>
   </tr>
+  <td>14</td>
+    <td>Smart Door Bell</td>
+    <td>When the button is pressed the buzzer Turn ON</td>
+    <td><a href=>Click Here</a></td>
+  </tr>
 </table>
 
 

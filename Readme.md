@@ -95,8 +95,8 @@
   </tr>
    <tr>
   <td>16</td>
-    <td>Pushup Counter</td>
-    <td>when the Push button is clicked the push ups count should be increased</td>
+    <td>Smart Step Counter</td>
+    <td>It gives the Number of steps Counted</td>
     <td><a >Click Here</a></td>
   </tr>
 

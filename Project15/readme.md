@@ -15,7 +15,6 @@
     <th>S.No</th>
     <th>bluetooth</th>
     <th>Arduino</th>
-    <th>Two channel realy Module</th>
   </tr>
   <tr>
     <td>1</td>

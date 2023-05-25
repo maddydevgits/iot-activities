@@ -85,7 +85,7 @@
   <td>14</td>
     <td>Smart Door Bell</td>
     <td>When the button is pressed the buzzer Turn ON</td>
-    <td><a href=>Click Here</a></td>
+    <td><a href="https://github.com/maddydevgits/iot-activities/tree/main/project14">Click Here</a></td>
   </tr>
    <tr>
   <td>15</td>
@@ -97,7 +97,7 @@
   <td>16</td>
     <td>Smart Step Counter</td>
     <td>It gives the Number of steps Counted</td>
-    <td><a href=https://github.com/maddydevgits/iot-activities/tree/main/Project17 >Click Here</a></td>
+    <td><a href="https://github.com/maddydevgits/iot-activities/tree/main/project16" >Click Here</a></td>
   </tr>
   <tr>
   <td>17</td>

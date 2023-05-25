@@ -25,10 +25,15 @@
     <th>NodeMCU</th>
   </tr>
   <tr>
+    <td>1</td>
     <td>D2</td>
-    <td>GND</td>
-    
   </tr>
+  <tr>
+    <td>2</td>
+    <td>gnd</td>
+  </tr>
+    
+  </table>
   
   
  

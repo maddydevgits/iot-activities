@@ -21,8 +21,7 @@
   <tr>
     <th>S.No</th>
     <th>Push button</th>
-    <th>resistor</th>
-    <th>NodeMCU</th>
+    
   </tr>
   <tr>
     <td>1</td>

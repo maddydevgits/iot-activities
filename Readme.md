@@ -87,12 +87,19 @@
     <td>When the button is pressed the buzzer Turn ON</td>
     <td><a href=>Click Here</a></td>
   </tr>
-   </tr>
+   <tr>
   <td>15</td>
     <td>Voice Controlled Home automation with arduino and bluetooth</td>
     <td>bluetooth connected to mobile app and uisng voice control the connected devices</td>
     <td><a href=https://github.com/sudheer1360/wheres-waldo-path-optimization>Click Here</a></td>
   </tr>
+   <tr>
+  <td>16</td>
+    <td>Pushup Counter</td>
+    <td>when the Push button is clicked the push ups count should be increased</td>
+    <td><a >Click Here</a></td>
+  </tr>
+
 </table>
 
 

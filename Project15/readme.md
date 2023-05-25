@@ -29,30 +29,12 @@
   </tr>
   <tr>
     <td>3</td>
-    <td>OUT</td>
-    <td>D2</td>
-  </tr>
-  </table>
-  
-  <table>
-  <tr>
-    <th>S.No</th>
-    <th>Sensor2</th>
-    <th>NodeMCU</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>VCC</td>
-    <td>Vin</td>
-  </tr>
-  <tr>
+    <td>TX</td>
     <td>2</td>
-    <td>GND</td>
-    <td>GND</td>
   </tr>
   <tr>
+    <td>4</td>
+    <td>RX</td>
     <td>3</td>
-    <td>OUT</td>
-    <td>D3</td>
   </tr>
   </table>

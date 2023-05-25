@@ -37,3 +37,30 @@
     <td>3</td>
   </tr>
   </table>
+   <table>
+  <tr>
+    <th>S.No</th>
+    <th>Two channel relay module</th>
+    <th>Arduino</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>IN1</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>IN2</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>GND</td>
+    <td>GND</td>
+  </tr>
+   <tr>
+    <td>4</td>
+    <td>VCC</td>
+    <td>5V</td>
+  </tr>
+  </table>

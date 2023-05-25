@@ -5,6 +5,7 @@
 
 # Prereqisites
 1.Arduino Software<br>
+2.Arduino Bluetooth App<br>
 
 # Outline
 1.Voice Controlled Home automation using Arduino and bluetooth<br>

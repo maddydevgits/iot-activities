@@ -21,7 +21,7 @@ Connect the button and buzzer to the arduino
     <th>S.No</th>
     <th>button</th>
     <th>buzzer</th>
-    <th>NodeMCU</th>
+   
   </tr>
   <tr>
     <td>buzzer</td>

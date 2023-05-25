@@ -9,7 +9,7 @@
 
 
 # Outline
-1.Push up counter<br>
+1.Smart steps counter<br>
 
 # Libraries
 

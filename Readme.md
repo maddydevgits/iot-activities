@@ -97,7 +97,7 @@
   <td>16</td>
     <td>Smart Step Counter</td>
     <td>It gives the Number of steps Counted</td>
-    <td><a >Click Here</a></td>
+    <td><a href=https://github.com/maddydevgits/iot-activities/tree/main/project16 >Click Here</a></td>
   </tr>
 
 </table>

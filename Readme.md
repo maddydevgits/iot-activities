@@ -99,6 +99,12 @@
     <td>It gives the Number of steps Counted</td>
     <td><a href=https://github.com/maddydevgits/iot-activities/tree/main/project16 >Click Here</a></td>
   </tr>
+  <tr>
+  <td>16</td>
+    <td>Saline monitoring system</td>
+    <td>Give Alert through buzzer when the water level is decreased</td>
+    <td><a href=https://github.com/maddydevgits/iot-activities/tree/main/project16 >Click Here</a></td>
+  </tr>
 
 </table>
 

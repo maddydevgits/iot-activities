@@ -110,6 +110,12 @@
     <td>Give Alert through buzzer and Display the level of alcohol when the Alcohol is detected</td>
     <td><a href=h>Click Here</a></td>
   </tr>
+</tr>
+   <td>19</td>
+    <td>Food Spoilage Detector</td>
+    <td>When the Food spoiled the gas sensor sends the altert</td>
+    <td><a href=h>Click Here</a></td>
+  </tr>
 
 </table>
 

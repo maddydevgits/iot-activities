@@ -54,6 +54,8 @@
     <td>-VE</td>
     <td>Gnd</td>
   </tr>
+  </table>
+  <table>
   <tr>
     <th>S.No</th>
     <th>Alcohol Sensor</th>

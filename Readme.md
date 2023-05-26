@@ -105,6 +105,11 @@
     <td>Give Alert through buzzer when the water level is decreased</td>
     <td><a href=https://github.com/maddydevgits/iot-activities/tree/main/Project17 >Click Here</a></td>
   </tr>
+   <td>18</td>
+    <td>ALcohol Detecter</td>
+    <td>Give Alert through buzzer and Display the level of alcohol when the Alcohol is detected</td>
+    <td><a href=h>Click Here</a></td>
+  </tr>
 
 </table>
 

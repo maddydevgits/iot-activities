@@ -46,17 +46,10 @@
   <tr>
     <td>1</td>
     <td>A0</td>
+    <td>VCC</td>
+    <td>GND</td>
     
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>A0</td>
-    
-  </tr>
-  <tr>
-  <td>2</td>
-    <td>A0</td>
-  </tr>
+ 
   
   </table>
  

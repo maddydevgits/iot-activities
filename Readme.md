@@ -115,7 +115,7 @@
    <td>19</td>
     <td>Food Spoilage Detector</td>
     <td>When the Food spoiled the gas sensor sends the altert</td>
-    <td><a href=>Click Here</a></td>
+    <td><a href="https://github.com/maddydevgits/iot-activities/tree/main/project19">Click Here</a></td>
   </tr>
   
   <tr>

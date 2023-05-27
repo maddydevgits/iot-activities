@@ -111,9 +111,17 @@
     <td><a href=h>Click Here</a></td>
   </tr>
 </tr>
+<tr>
    <td>19</td>
     <td>Food Spoilage Detector</td>
     <td>When the Food spoiled the gas sensor sends the altert</td>
+    <td><a href=h>Click Here</a></td>
+  </tr>
+  
+  <tr>
+   <td>20</td>
+    <td>Water level Monitoring</td>
+    <td>Detecting the level of water by using the ultrasonic sensor</td>
     <td><a href=h>Click Here</a></td>
   </tr>
 

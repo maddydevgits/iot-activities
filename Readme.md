@@ -130,6 +130,12 @@
   <td>Detecting the Moisture level and if the moisture lwvwl is decreased give alert through buzzer</td>
   <td><a href=https://github.com/maddydevgits/iot-activities/tree/main/Project21>Click Here</a></td>
   </tr>
+  <tr>
+  <td>21</td>
+  <td>Finger print based Exam </td>
+  <td>identifing the unkown candidates entering examhall</td>
+  <td><a href=>Click Here</a></td>
+  </tr>
 
 </table>
 

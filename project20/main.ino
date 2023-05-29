@@ -27,7 +27,7 @@ void loop() {
   int distance = duration * 0.034 / 2;
   Serial.print("Distance: ");
   Serial.println(distance);
-  if (distance > 100) {
+  if (distance > 5) {
     digitalWrite(buzzer, 1);
     lcd.println("Water level is high");
     delay(500);

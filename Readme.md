@@ -140,8 +140,15 @@
   <td>23</td>
   <td>Garbage collector </td>
   <td>Collection of garbage using ultrasonic sensor</td>
-  <td><a href = https://github.com/maddydevgits/iot-activities/tree/main/Project23>Click Here</a></td>
+  <td><a href ="https://github.com/maddydevgits/iot-activities/tree/main/Project23">Click Here</a></td>
   </tr>
+  <tr>
+  <td>24</td>
+  <td>Smart Handwash</td>
+  <td>IR Sensor detects the presence of hands using infrared technology and triggers the soap dispenser and water flow accordingly.</td>
+  <td><a href ="">Click Here</a></td>
+  </tr>
+  
 
 </table>
 

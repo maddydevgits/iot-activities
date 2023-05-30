@@ -148,6 +148,12 @@
   <td>IR Sensor detects the presence of hands using infrared technology and triggers the soap dispenser and water flow accordingly.</td>
   <td><a href ="https://github.com/maddydevgits/iot-activities/tree/main/project24">Click Here</a></td>
   </tr>
+  <tr>
+  <td>25</td>
+  <td>Smart Praking</td>
+  <td>identifying Parking slots in parking place</td>
+  <td><a href ="https://github.com/maddydevgits/iot-activities/tree/main/Project25">Click Here</a></td>
+  </tr>
   </table>
 
 

@@ -146,10 +146,8 @@
   <td>24</td>
   <td>Smart Handwash</td>
   <td>IR Sensor detects the presence of hands using infrared technology and triggers the soap dispenser and water flow accordingly.</td>
-  <td><a href ="">Click Here</a></td>
+  <td><a href ="https://github.com/maddydevgits/iot-activities/tree/main/project24">Click Here</a></td>
   </tr>
-  
-
-</table>
+  </table>
 
 

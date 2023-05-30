@@ -140,7 +140,7 @@
   <td>23</td>
   <td>Garbage collector </td>
   <td>Collection of garbage using ultrasonic sensor</td>
-  <td><>Click Here</a></td>
+  <td><a href = https://github.com/maddydevgits/iot-activities/tree/main/Project23>Click Here</a></td>
   </tr>
 
 </table>

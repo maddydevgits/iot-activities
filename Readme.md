@@ -136,6 +136,12 @@
   <td>identifing the unkown candidates entering examhall</td>
   <td><a href=https://github.com/maddydevgits/iot-activities/tree/main/project22>Click Here</a></td>
   </tr>
+  <tr>
+  <td>23</td>
+  <td>Garbage collector </td>
+  <td>Collection of garbage using ultrasonic sensor</td>
+  <td><>Click Here</a></td>
+  </tr>
 
 </table>
 

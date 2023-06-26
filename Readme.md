@@ -165,7 +165,7 @@
     <td>26</td>
     <td> Smart Granary System</td>
     <td> Implementing Granary System using Soil moisture sensor and DHT11</td>
-    <td><>Click Here</a></td>
+    <td><"https://github.com/maddydevgits/iot-activities/tree/main/Project%2027">Click Here</a></td>
   </tr>
 </table>
 

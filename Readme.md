@@ -159,7 +159,7 @@
     <td>26</td>
     <td>Automatic open and close of gate</td>
     <td> When someone or a vehicle approaches, the ultrasonic sensor detects their presence and sends a signal to the servo motor</td>
-    <td><a href="https://github.com/maddydevgits/iot-activities/tree/main/project10">Click Here</a></td>
+    <td><a href="https://github.com/maddydevgits/iot-activities/tree/main/project26">Click Here</a></td>
   </tr>
 </table>
 

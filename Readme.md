@@ -161,5 +161,11 @@
     <td> When someone or a vehicle approaches, the ultrasonic sensor detects their presence and sends a signal to the servo motor</td>
     <td><a href="https://github.com/maddydevgits/iot-activities/tree/main/project26">Click Here</a></td>
   </tr>
+  <tr>
+    <td>26</td>
+    <td> Smart Granary System</td>
+    <td> Implementing Granary System using Soil moisture sensor and DHT11</td>
+    <td><>Click Here</a></td>
+  </tr>
 </table>
 

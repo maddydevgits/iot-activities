@@ -171,7 +171,7 @@
     <td>28</td>
     <td> Ultrasonic radar</td>
     <td> Implementing ultrasonic radar using ultrasonic sensor and servo motor</td>
-    <td><a href = "https://github.com/maddydevgits/iot-activities/tree/main/Project28">Click Here</a></td>
+    <td><a href ="https://github.com/maddydevgits/iot-activities/tree/main/project28">Click Here</a></td>
   </tr>
 </table>
 

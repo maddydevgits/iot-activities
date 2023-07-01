@@ -167,5 +167,11 @@
     <td> Implementing Granary System using Soil moisture sensor and DHT11</td>
     <td><a href = "https://github.com/maddydevgits/iot-activities/tree/main/Project%2027">Click Here</a></td>
   </tr>
+  <tr>
+    <td>28</td>
+    <td> Ultrasonic radar</td>
+    <td> Implementing ultrasonic radar using ultrasonic sensor and servo motor</td>
+    <td><a href = "https://github.com/maddydevgits/iot-activities/tree/main/Project28">Click Here</a></td>
+  </tr>
 </table>
 

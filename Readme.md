@@ -192,5 +192,11 @@
     <td>Implementing Smart Cage Using DHT11 Sensor</td>
     <td><a href = https://github.com/maddydevgits/iot-activities/tree/main/Project%2031>Click Here</a></td>
   </tr>
+  <tr>
+    <td>33</td>
+    <td>Smart Field</td>
+    <td>Implementing Smart Field  Using Soil Moisture Sensor</td>
+    <td><https://github.com/maddydevgits/iot-activities/tree/main/Project%2033>Click Here</a></td>
+  </tr>
 </table>
 

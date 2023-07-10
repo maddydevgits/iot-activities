@@ -182,7 +182,7 @@
    <tr>
     <td>30</td>
     <td>Smart Nappies</td>
-    <td>Implementing smart nappies using ultrasonic sensor and giving the altert through telegram to change the nappie of baby</td>
+    <td>Implementing smart nappies using soil moisture sensor and giving the altert through telegram to change the nappie of baby</td>
     <td><https://github.com/maddydevgits/iot-activities/tree/main/project30>Click Here</a></td>
   </tr>
       

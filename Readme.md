@@ -193,6 +193,12 @@
     <td><a href = https://github.com/maddydevgits/iot-activities/tree/main/Project%2031>Click Here</a></td>
   </tr>
   <tr>
+    <td>32</td>
+    <td>Automated Agriculture Farming </td>
+    <td>Implementing Automated Agriculture Farming Using DHT11 Sensor and updating the values of humidity and temperature to the thingspeak</td>
+    <td><a href = "https://github.com/maddydevgits/iot-activities/tree/main/project32">Click Here</a></td>
+  </tr>
+  <tr>
     <td>33</td>
     <td>Smart Field</td>
     <td>Implementing Smart Field  Using Soil Moisture Sensor</td>

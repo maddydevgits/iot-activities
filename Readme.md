@@ -196,7 +196,7 @@
     <td>33</td>
     <td>Smart Field</td>
     <td>Implementing Smart Field  Using Soil Moisture Sensor</td>
-    <td>< a href = https://github.com/maddydevgits/iot-activities/tree/main/Project%2033>Click Here</a></td>
+    <td><a href = https://github.com/maddydevgits/iot-activities/tree/main/Project%2033>Click Here</a></td>
   </tr>
 </table>
 

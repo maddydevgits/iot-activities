@@ -185,5 +185,12 @@
     <td>Implementing smart nappies using ultrasonic sensor and giving the altert through telegram to change the nappie of baby</td>
     <td><https://github.com/maddydevgits/iot-activities/tree/main/project%2029>Click Here</a></td>
   </tr>
+      
+   <tr>
+    <td>31</td>
+    <td>Smart Cage Iot</td>
+    <td>Implementing Smart Cage Using DHT11 Sensor</td>
+    <td><https://github.com/maddydevgits/iot-activities/tree/main/project%2029>Click Here</a></td>
+  </tr>
 </table>
 

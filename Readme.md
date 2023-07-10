@@ -177,13 +177,13 @@
     <td>29</td>
     <td> Drowsiness Detection</td>
     <td>Detecting Drowsiness by Using IR sensor</td>
-    <td><a href ="https://github.com/maddydevgits/iot-activities/tree/main/project28">Click Here</a></td>
+    <td><a href =https://github.com/maddydevgits/iot-activities/tree/main/project%2029>Click Here</a></td>
   </tr>
    <tr>
     <td>30</td>
     <td>Smart Nappies</td>
     <td>Implementing smart nappies using ultrasonic sensor and giving the altert through telegram to change the nappie of baby</td>
-    <td><a href ="https://github.com/maddydevgits/iot-activities/tree/main/project28">Click Here</a></td>
+    <td><https://github.com/maddydevgits/iot-activities/tree/main/project%2029>Click Here</a></td>
   </tr>
 </table>
 

@@ -173,5 +173,11 @@
     <td> Implementing ultrasonic radar using ultrasonic sensor and servo motor</td>
     <td><a href ="https://github.com/maddydevgits/iot-activities/tree/main/project28">Click Here</a></td>
   </tr>
+  <tr>
+    <td>29</td>
+    <td> Drowsiness Detection</td>
+    <td>Detecting Drowsiness by Using IR sensor</td>
+    <td><a href ="https://github.com/maddydevgits/iot-activities/tree/main/project28">Click Here</a></td>
+  </tr>
 </table>
 

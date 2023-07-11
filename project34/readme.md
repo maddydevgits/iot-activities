@@ -36,12 +36,12 @@ Connecting the ADXL With Node MCU
   </tr>
   <tr>
     <td>4</td>
-    <td>SDL</td>
-    <td>D1</td>
+    <td>SDA</td>
+    <td>D2</td>
   </tr>
   <tr>
     <td>4</td>
     <td>SCL</td>
-    <td>D2</td>
+    <td>D1</td>
   </tr>
 </table>

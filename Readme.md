@@ -204,5 +204,11 @@
     <td>Implementing Smart Field  Using Soil Moisture Sensor</td>
     <td><a href = https://github.com/maddydevgits/iot-activities/tree/main/Project%2033>Click Here</a></td>
   </tr>
+  <tr>
+    <td>34</td>
+    <td>ADXL 345</td>
+    <td>Accelerometer sensor with 3-axis measurement, high resolution, low power consumption, and versatile applications in motion sensing and orientation detection.</td>
+    <td><a href = "https://github.com/maddydevgits/iot-activities/tree/main/project34">Click Here</a></td>
+  </tr>
 </table>
 
